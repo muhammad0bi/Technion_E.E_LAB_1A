@@ -1,7 +1,7 @@
 # Space Invaders Game  
 
 This project is a hardware implementation of the classic Space Invaders game using SystemVerilog and the Quartus development environment.
-The game runs on an FPGA, with user inputs provided through physical buttons or switches connected to the FPGA.
+The game runs on an FPGA, with user inputs provided through physical buttons, Keyboard or switches connected to the FPGA.
 
 Tools and Technologies Used  
 - Quartus for FPGA development.  
